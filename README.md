@@ -70,7 +70,7 @@ Homebrew acts through Terminal commands — you can install, update, and uninsta
 **Source**
 https://setapp.com/how-to/install-homebrew-on-mac?ci=13920502941&adgroupid=124514958203&adpos=&ck=&targetid=dsa-1391463663744&match=b&gnetwork=g&creative=534108519533&placement=&placecat=&accname=setapp&gclid=CjwKCAjw7--KBhAMEiwAxfpkWJiR_rRDXmGEfpSgB1pk96rFYGR5M89DnE_yi3zEnhzTvqnB_7KaeBoCVGwQAvD_BwE
 
-### How to install Homebrew on Mac
+### How to install Homebrew and git on Mac
 **Step 1**: Install command line tools for Xcode
 
 Xcode is Apple’s native IDE, an integrated development environment that has all the tools you need for software development on Mac. To install some of the Homebrew package components, you need to install Xcode’s command line tools first (in case you haven’t done it before). 
@@ -105,10 +105,12 @@ Next steps:
 
 You’ll see examples of commands that will help you install different software, configs, and updates through Homebrew. For example, to install a package, you should type brew install ‘package name’ in Terminal. There are also a few useful troubleshooting commands you should take note of, such as brew doctor that can detect installation issues.  
 
-**Step 4**: Update Mac Homebrew 
+**Step 4**: Update Mac Homebrew (if needed)
 Anything you install via Homebrew needs to be updated regularly. You should also update the package manager occasionally to make sure it works properly and you’re not missing some important new features: 
 
    1. To update Homebrew, run brew update in Terminal
    2. To find out what packages need updating, run brew outdated in Terminal 
    3. To update a specific package, run brew update package name in Terminal. 
 
+**Step 5**: Install git
+In the terminal type **brew install git** and hit return.

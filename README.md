@@ -132,7 +132,7 @@ Download from the Python homepage (https://www.python.org/downloads/).
 ### Python Interpreter
 The Python interpreter is a program that reads and executes Python code. When we start Python in the command line, it creates the interactive Python interpreter.
 
-To use the Python interpreter in the command line, type python3 or python3 -i after the prompt, $ , and then press Enter. The terminal window should now look something like this:
+To use the Python interpreter in the command line, type  python3 or  python3 -i after the prompt, $ , and then press Enter. The terminal window should now look something like this:
 
 ![](pics/python_interpreter.PNG)
 

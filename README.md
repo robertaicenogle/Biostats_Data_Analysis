@@ -150,3 +150,5 @@ There are two drawbacks when it comes to using the Python interpreter:
    2. It's challenging to write scripts that are longer than a few lines. This is where the VS Code outshines the Python interpreter.
 
 To download **VS Code**, follow the instructions for your operating system:
+
+## Github

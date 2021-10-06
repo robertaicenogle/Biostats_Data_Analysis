@@ -145,10 +145,12 @@ To use the Python interpreter in the command line, type  python3 or  python3 -i 
 Visual Studio Code, also called **VS Code**, is a free text editor that runs on macOS and Windows. **VS Code** is one of the better code editors currently available, and it makes it easy to work with a variety of different programming languages such as HTML, Javascript, SQL, and, of course, Python.
 
 ### VS Code
-There are two drawbacks when it comes to using the Python interpreter: 
+VS Code outshines the Python interpreter in two major ways: 
    1. You can't save the code you write in the interpreter.
-   2. It's challenging to write scripts that are longer than a few lines. This is where the VS Code outshines the Python interpreter.
+   2. It's challenging to write scripts that are longer than a few lines.
 
 To download **VS Code**, follow the instructions for your operating system:
+
+
 
 ## Github

@@ -118,3 +118,6 @@ Anything you install via Homebrew needs to be updated regularly. You should also
 **Step 5**: Install git
 
 In the terminal type **brew install git** and hit return.
+
+Even though we downloaded the latest version of Git, it is always good practice to check the version you are using from time to time. To check which version we are using, open the command line and type, git --version at the prompt.
+

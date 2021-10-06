@@ -67,6 +67,9 @@ With Homebrew, you can benefit from tons of command line tools to automate your 
 **How Homebrew works**
 Homebrew acts through Terminal commands — you can install, update, and uninstall packages by typing a few words. There are some simple default brew commands for installing single-file utilities, and more advanced subcommands called casks — you’ll have to use those to install multi-directory utilities.
 
+**Source**
+https://setapp.com/how-to/install-homebrew-on-mac?ci=13920502941&adgroupid=124514958203&adpos=&ck=&targetid=dsa-1391463663744&match=b&gnetwork=g&creative=534108519533&placement=&placecat=&accname=setapp&gclid=CjwKCAjw7--KBhAMEiwAxfpkWJiR_rRDXmGEfpSgB1pk96rFYGR5M89DnE_yi3zEnhzTvqnB_7KaeBoCVGwQAvD_BwE
+
 ### How to install Homebrew on Mac
 **Step 1**: Install command line tools for Xcode
 

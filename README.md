@@ -113,4 +113,5 @@ Anything you install via Homebrew needs to be updated regularly. You should also
    3. To update a specific package, run brew update package name in Terminal. 
 
 **Step 5**: Install git
+
 In the terminal type **brew install git** and hit return.

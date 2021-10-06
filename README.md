@@ -5,11 +5,16 @@ This repository follows/documents the UT Data Analytics Certificate Program.
 The goal is to develop a general data analytics paradigm. Throughout this process, we'll discover new programs/software, terminology, and a novel set of skills that can be applied to various projects.
 
 ## Definitions
-- **Command Line** - The command line is used to navigate and perform tasks on a computer. (macOS) Terminal Application. (Windows) Command Prompt.
-- **Github Repository** - 
-- **Interpreter** - 
-- **Git Bash** - An app for Microsoft Windows environments that installs Bash (Bourne-again shell) and Git on Windows OS.
-- **Shell** - A terminal application, like Terminal on macOS, used to interface with an OS through written commands.
+   - **Command Line** - The command line is used to navigate and perform tasks on a computer. (macOS) Terminal Application. (Windows) Command Prompt.
+   - **Github Repository** - 
+   - **Interpreter** - 
+   - **Git Bash** - An app for Microsoft Windows environments that installs Bash (Bourne-again shell) and Git on Windows OS.
+   - **Shell** - A terminal application, like Terminal on macOS, used to interface with an OS through written commands.
+   - **Homebrew** - 
+   - **Xcode** - 
+   - **Dependencies** - 
+
+### Commands
 - **pwd** - Present working directory
 - **ls** - list files
 
@@ -45,6 +50,16 @@ To navigate to a folder - for example Downloads - type cd Downloads. The cd comm
 To nagative to a new folder type cd .. The two dots after cd tells the computer to go back one level, which, in our case, is the home directory. ext, he would type cd Desktop and press Enter. Now Tom would be in his Desktop directory, or folder.
 
 Typing cd ~ returns a user to the main directory - the desktop folder.
+
+A technique used by more experienced programmers is to type cd ../Desktop after the prompt and then press Enter. This command allows you to go back one directory, or folder, level from the Downloads directory to the home directory, and then navigate to the Desktop folder. Let's break this command down in detail.
+
+   - The cd .. tells the computer to go back up one level.
+   - The forward slash "/" is a path separator.
+   - After the forward slash, we add the directory or folder, Desktop.
+
+## Install Xcode, Homebrew and git on a Mac
+   - Follow instrucctions for installing **Xcode** at https://treehouse.github.io/installation-guides/mac/homebrew 
+**Homebrew**
 
 
 

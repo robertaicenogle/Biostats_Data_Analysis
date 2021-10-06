@@ -1,7 +1,7 @@
 # Biostatistics_Paradigm
 This repository follows/documents the UT Data Analytics Certificate Program. 
 
-![](pics/analytics_paradigm.PNG)
+![](pics/data_paradigm.PNG)
 
 ### Purpose
 The goal is to develop a general data analytics paradigm. Throughout this process, we'll discover new programs/software, terminology, and a novel set of skills that can be applied to various projects.

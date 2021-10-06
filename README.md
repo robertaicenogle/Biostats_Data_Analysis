@@ -134,3 +134,9 @@ The Python interpreter is a program that reads and executes Python code. When we
 
 To use the Python interpreter in the command line, type python3 or python3 -i after the prompt, $ , and then press Enter. The terminal window should now look something like this:
 
+![](pics/python_interpreter.PNG)
+
+**Let's break down what's happening here:**
+   1. The first line provides the Python version that's running and the time and day of the creation of the version you are using.
+   2. There are tips you can use to get help and other information. All you have to do is type one of these words and press Enter.
+   3. The three chevrons, >>> , represent the Python prompt where you will type your code. Since Python is an interpretable programming language, all we need to do after the prompt is type any valid Python expression. Python will read the typed expression, evaluate it, and return the results in the line below the code you wrote

@@ -58,8 +58,7 @@ A technique used by more experienced programmers is to type cd ../Desktop after 
    - After the forward slash, we add the directory or folder, Desktop.
 
 ## Install Xcode, Homebrew and git on a Mac
-   - Follow instrucctions for installing **Xcode** at https://treehouse.github.io/installation-guides/mac/homebrew 
-**Homebrew**
-
-
+Use instructions at https://treehouse.github.io/installation-guides/mac/homebrew to install **Xcode**, then **Homebrew** and finally **git**
+   - **Xcode** is a developer tool which can be installed through the Apple App Store. Needs to be installed before **Homebrew**
+   - **Homebrew** is a package manager for Macs
 

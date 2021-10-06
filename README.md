@@ -99,9 +99,9 @@ Follow the final instructions to finish setting up Homebrew. For me, these steps
 Next steps:
    - Run these two commands in your terminal to add Homebrew to your PATH:
     
-    echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/daniellaandrobert/.zprofile
+           echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/daniellaandrobert/.zprofile
     
-    eval "$(/opt/homebrew/bin/brew shellenv)"
+           eval "$(/opt/homebrew/bin/brew shellenv)"
     
    - Run `brew help` to get started
 

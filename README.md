@@ -141,4 +141,12 @@ To use the Python interpreter in the command line, type  python3 or  python3 -i 
    2. There are tips you can use to get help and other information. All you have to do is type one of these words and press Enter.
    3. The three chevrons, >>> , represent the Python prompt where you will type your code. Since Python is an interpretable programming language, all we need to do after the prompt is type any valid Python expression. Python will read the typed expression, evaluate it, and return the results in the line below the code you wrote
 
-## What's Next?
+## Install Visual Studio Code
+Visual Studio Code, also called **VS Code**, is a free text editor that runs on macOS and Windows. **VS Code** is one of the better code editors currently available, and it makes it easy to work with a variety of different programming languages such as HTML, Javascript, SQL, and, of course, Python.
+
+### VS Code
+There are two drawbacks when it comes to using the Python interpreter: 
+   1. You can't save the code you write in the interpreter.
+   2. It's challenging to write scripts that are longer than a few lines. This is where the VS Code outshines the Python interpreter.
+
+To download **VS Code**, follow the instructions for your operating system:

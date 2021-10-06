@@ -40,20 +40,20 @@ The first line shows the details of the last login. The second line provides the
 ### Finding Your Home Directory
 Every time you open the terminal application, it will open in the home directory. Using commands, we can find the terminal "path" to the home directory.
 
-To find the path to your home directory (or any directory), enter the command **pwd** after the prompt, $. Then press Enter to run, or execute, the command.  **pwd** stands for "print working directory." The working directory is the current directory you are working in. For example, right now we are working in the home directory. After we run the **pwd** command, the computer responds with current folder in use.
+To find the path to your home directory (or any directory), enter the command 'pwd' after the prompt, $. Then press Enter to run, or execute, the command.  'pwd' stands for "print working directory." The working directory is the current directory you are working in. For example, right now we are working in the home directory. After we run the 'pwd' command, the computer responds with current folder in use.
 
-The command to view files and folders in the terminal is **ls**, which means "list files." If we type **ls** after the prompt and press Enter, the terminal will print the folder names in alphabetical order from top to bottom and right to left.
+The command to view files and folders in the terminal is 'ls' which means "list files." If we type 'ls' after the prompt and press Enter, the terminal will print the folder names in alphabetical order from top to bottom and right to left.
 
 ### Navigating with the Terminal Application
-To navigate to a folder - for example Downloads - type cd Downloads. The cd command means "change directory."
+To navigate to a folder - for example Downloads - type 'cd Downloads'. The cd command means "change directory."
 
-To nagative to a new folder type cd .. The two dots after cd tells the computer to go back one level, which, in our case, is the home directory. ext, he would type cd Desktop and press Enter. Now Tom would be in his Desktop directory, or folder.
+To nagative to a new folder type 'cd ..' The two dots after cd tells the computer to go back one level, which, in our case, is the home directory. ext, he would type 'cd Desktop' and press Enter. Now Tom would be in his Desktop directory, or folder.
 
-Typing cd ~ returns a user to the main directory - the desktop folder.
+Typing 'cd ~' returns a user to the main directory - the desktop folder.
 
-A technique used by more experienced programmers is to type cd ../Desktop after the prompt and then press Enter. This command allows you to go back one directory, or folder, level from the Downloads directory to the home directory, and then navigate to the Desktop folder. Let's break this command down in detail.
+A technique used by more experienced programmers is to type 'cd ../Desktop' after the prompt and then press Enter. This command allows you to go back one directory, or folder, level from the Downloads directory to the home directory, and then navigate to the Desktop folder. Let's break this command down in detail.
 
-   - The cd .. tells the computer to go back up one level.
+   - The 'cd ..' tells the computer to go back up one level.
    - The forward slash "/" is a path separator.
    - After the forward slash, we add the directory or folder, Desktop.
 
@@ -77,7 +77,7 @@ Xcode is Apple’s native IDE, an integrated development environment that has al
 
 Here’s how to install command line tools for Xcode: 
 
-   1. Open Terminal and type the following command: **xcode-select --install**
+   1. Open Terminal and run the following command: 'xcode-select --install'
    2. In the new dialog window, confirm you want to install the Xcode tools
    3. Agree to a license agreement and wait for the installation process to complete. It might take a while. 
 
@@ -87,7 +87,7 @@ Now your Mac is ready for Homebrew. Here’s the full installation process:
 
    1. Open Terminal and type the following command: 
 
-      /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+      '/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"'
 
    2. Type your admin password (note that you won’t see your keystrokes in the Terminal window — it’s a security measure) > hit Return 
    3. Wait a few minutes until you see the “Installation successful” message in Terminal.
@@ -117,7 +117,7 @@ Anything you install via Homebrew needs to be updated regularly. You should also
 
 **Step 5**: Install Git
 
-In the terminal type **brew install git** and hit return.
+   - Run 'brew install git'
 
 Even though we downloaded the latest version of Git, it is always good practice to check the version you are using from time to time. To check which version we are using, open the command line and type **git --version** at the prompt.
 

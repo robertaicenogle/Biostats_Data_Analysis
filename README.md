@@ -121,3 +121,5 @@ In the terminal type **brew install git** and hit return.
 
 Even though we downloaded the latest version of Git, it is always good practice to check the version you are using from time to time. To check which version we are using, open the command line and type **git --version** at the prompt.
 
+## Install Python
+Python is one of the most popular programming languages. Used to write algorithms or "scripts" that can be run to create output.

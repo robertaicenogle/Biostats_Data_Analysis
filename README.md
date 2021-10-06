@@ -9,10 +9,11 @@ The goal is to develop a general data analytics paradigm. Throughout this proces
 - **Github Repository** - 
 - **Interpreter** - 
 - **Git Bash** - An app for Microsoft Windows environments that installs Bash (Bourne-again shell) and Git on Windows OS.
-- **Shell** - a terminal application, like Terminal on macOS, used to interface with an OS through written commands.
-- 
+- **Shell** - A terminal application, like Terminal on macOS, used to interface with an OS through written commands.
+- **pwd** - Present working directory
+- **ls** - list files
 
-## Let's Begin
+## The Terminal Application
 
 ### Opening the Terminal Application - macOS
    1. Press Command+Space to open Spotlight Search.
@@ -31,10 +32,10 @@ The first line shows the details of the last login. The second line provides the
    2. The name "daniellaandrobert" is the name of the home directory. The home directory on a Mac is the little house that appears in the sidebar of the Finder window under Favorites.
    3. The $ is what programmers call the prompt, which is where we will type commands.
 
-### inding Your Home Directory
+### Finding Your Home Directory
 Every time you open the terminal application, it will open in the home directory. Using commands, we can find the terminal "path" to the home directory.
 
 To find the path to your home directory (or any directory), enter the command pwd after the prompt, $. Then press Enter to run, or execute, the command.  **pwd** stands for "print working directory." The working directory is the current directory you are working in. For example, right now we are working in the home directory. After we run the **pwd** command, the computer responds with current folder in use.
 
-
+The command to view files and folders in the terminal is **ls**, which means "list files." If we type ls after the prompt and press Enter, the terminal will print the folder names in alphabetical order from top to bottom and right to left.
 

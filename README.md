@@ -115,9 +115,9 @@ Anything you install via Homebrew needs to be updated regularly. You should also
    2. To find out what packages need updating, run brew outdated in Terminal 
    3. To update a specific package, run brew update package name in Terminal. 
 
-**Step 5**: Install git
+**Step 5**: Install Git
 
 In the terminal type **brew install git** and hit return.
 
-Even though we downloaded the latest version of Git, it is always good practice to check the version you are using from time to time. To check which version we are using, open the command line and type, git --version at the prompt.
+Even though we downloaded the latest version of Git, it is always good practice to check the version you are using from time to time. To check which version we are using, open the command line and type **git --version** at the prompt.
 

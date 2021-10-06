@@ -82,6 +82,7 @@ Here’s how to install command line tools for Xcode:
    3. Agree to a license agreement and wait for the installation process to complete. It might take a while. 
 
 **Step 2**: Install Homebrew on Mac 
+
 Now your Mac is ready for Homebrew. Here’s the full installation process: 
 
    1. Open Terminal and type the following command: 
@@ -92,6 +93,7 @@ Now your Mac is ready for Homebrew. Here’s the full installation process:
    3. Wait a few minutes until you see the “Installation successful” message in Terminal.
 
 **Step 3**: Set up Homebrew
+
 Follow the final instructions to finish setting up Homebrew. For me, these steps read:
 
 Next steps:
@@ -106,6 +108,7 @@ Next steps:
 You’ll see examples of commands that will help you install different software, configs, and updates through Homebrew. For example, to install a package, you should type brew install ‘package name’ in Terminal. There are also a few useful troubleshooting commands you should take note of, such as brew doctor that can detect installation issues.  
 
 **Step 4**: Update Mac Homebrew (if needed)
+
 Anything you install via Homebrew needs to be updated regularly. You should also update the package manager occasionally to make sure it works properly and you’re not missing some important new features: 
 
    1. To update Homebrew, run brew update in Terminal

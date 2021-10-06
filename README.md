@@ -1,6 +1,8 @@
 # Biostatistics_Paradigm
 This repository follows/documents the UT Data Analytics Certificate Program. 
 
+
+
 ![](pics/data_paradigm.PNG)
 
 ### Purpose

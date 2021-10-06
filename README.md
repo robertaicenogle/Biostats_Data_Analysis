@@ -57,8 +57,46 @@ A technique used by more experienced programmers is to type cd ../Desktop after 
    - The forward slash "/" is a path separator.
    - After the forward slash, we add the directory or folder, Desktop.
 
-## Install Xcode, Homebrew and git on a Mac
-Use instructions at https://treehouse.github.io/installation-guides/mac/homebrew to install **Xcode**, then **Homebrew** and finally **git**
-   - **Xcode** is a developer tool which can be installed through the Apple App Store. Needs to be installed before **Homebrew**
-   - **Homebrew** is a package manager for Macs
+## Install Homebrew and git on a Mac
+**What is Homebrew?** 
+“Homebrew installs the stuff you need that Apple didn’t” — this is how Homebrew creators describe it, and we agree. If you want a more informative definition, Homebrew is a free and open-source package manager for macOS, helping you install, update, uninstall, and manage developer tools like Python, Ruby, and Node.js on your Mac. 
+
+**Why do you need it?** 
+With Homebrew, you can benefit from tons of command line tools to automate your work. Best of all, they are all installed, uninstalled, and updated in one location on your Mac.
+
+**How Homebrew works**
+Homebrew acts through Terminal commands — you can install, update, and uninstall packages by typing a few words. There are some simple default brew commands for installing single-file utilities, and more advanced subcommands called casks — you’ll have to use those to install multi-directory utilities.
+
+### How to install Homebrew on Mac
+**Step 1**: Install command line tools for Xcode
+
+Xcode is Apple’s native IDE, an integrated development environment that has all the tools you need for software development on Mac. To install some of the Homebrew package components, you need to install Xcode’s command line tools first (in case you haven’t done it before). 
+
+Here’s how to install command line tools for Xcode: 
+
+   1. Open Terminal and type the following command: **xcode-select --install**
+   2. In the new dialog window, confirm you want to install the Xcode tools
+   3. Agree to a license agreement and wait for the installation process to complete. It might take a while. 
+
+**Step 2**: Install Homebrew on Mac 
+Now your Mac is ready for Homebrew. Here’s the full installation process: 
+
+   1. Open Terminal and type the following command: 
+
+      /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+   2. Type your admin password (note that you won’t see your keystrokes in the Terminal window — it’s a security measure) > hit Return 
+   3. Wait a few minutes until you see the “Installation successful” message in Terminal.
+
+**Step 3**: Set up Homebrew
+In Terminal, run brew help to get started.
+
+You’ll see examples of commands that will help you install different software, configs, and updates through Homebrew. For example, to install a package, you should type brew install ‘package name’ in Terminal. There are also a few useful troubleshooting commands you should take note of, such as brew doctor that can detect installation issues.  
+
+**Step 4**: Update Mac Homebrew 
+Anything you install via Homebrew needs to be updated regularly. You should also update the package manager occasionally to make sure it works properly and you’re not missing some important new features: 
+
+   1. To update Homebrew, run brew update in Terminal
+   2. To find out what packages need updating, run brew outdated in Terminal 
+   3. To update a specific package, run brew update package name in Terminal. 
 

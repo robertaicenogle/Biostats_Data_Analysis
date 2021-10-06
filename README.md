@@ -92,6 +92,12 @@ Now your Mac is ready for Homebrew. Here’s the full installation process:
    3. Wait a few minutes until you see the “Installation successful” message in Terminal.
 
 **Step 3**: Set up Homebrew
+==> Next steps:
+- Run these two commands in your terminal to add Homebrew to your PATH:
+    echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/daniellaandrobert/.zprofile
+    eval "$(/opt/homebrew/bin/brew shellenv)"
+- Run `brew help` to get started
+
 In Terminal, run brew help to get started.
 
 You’ll see examples of commands that will help you install different software, configs, and updates through Homebrew. For example, to install a package, you should type brew install ‘package name’ in Terminal. There are also a few useful troubleshooting commands you should take note of, such as brew doctor that can detect installation issues.  

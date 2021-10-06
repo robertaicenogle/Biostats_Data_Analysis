@@ -1,12 +1,12 @@
 # Biostatistics_Paradigm
 This repository follows/documents the UT Data Analytics Certificate Program. 
 
+### Purpose
+The goal is to develop a general data analytics paradigm. Throughout this process, we'll discover new programs/software, terminology, and a novel set of skills that can be applied to various projects.
 
 
 ![](pics/data_paradigm.PNG)
 
-### Purpose
-The goal is to develop a general data analytics paradigm. Throughout this process, we'll discover new programs/software, terminology, and a novel set of skills that can be applied to various projects.
 
 ## Definitions
    - **Command Line** - The command line is used to navigate and perform tasks on a computer. (macOS) Terminal Application. (Windows) Command Prompt.

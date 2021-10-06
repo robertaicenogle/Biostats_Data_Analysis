@@ -87,7 +87,7 @@ Now your Mac is ready for Homebrew. Here’s the full installation process:
 
    1. Open Terminal and type the following command: 
 
-      '/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"'
+      /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
    2. Type your admin password (note that you won’t see your keystrokes in the Terminal window — it’s a security measure) > hit Return 
    3. Wait a few minutes until you see the “Installation successful” message in Terminal.

@@ -123,3 +123,14 @@ Even though we downloaded the latest version of Git, it is always good practice 
 
 ## Install Python
 Python is one of the most popular programming languages. Used to write algorithms or "scripts" that can be run to create output.
+
+### Python for macOS
+We'll install Python 3.7.6 - a slightly older version of the software. Using a slightly older version of a software is typical in the software development industry.
+
+Download from the Python homepage (https://www.python.org/downloads/).
+
+### Python Interpreter
+The Python interpreter is a program that reads and executes Python code. When we start Python in the command line, it creates the interactive Python interpreter.
+
+To use the Python interpreter in the command line, type python3 or python3 -i after the prompt, $ , and then press Enter. The terminal window should now look something like this:
+

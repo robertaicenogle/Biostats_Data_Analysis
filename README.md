@@ -57,7 +57,7 @@ A technique used by more experienced programmers is to type cd ../Desktop after 
    - The forward slash "/" is a path separator.
    - After the forward slash, we add the directory or folder, Desktop.
 
-## Install Homebrew and git on a Mac
+## Install Homebrew and Git
 **What is Homebrew?** 
 “Homebrew installs the stuff you need that Apple didn’t” — this is how Homebrew creators describe it, and we agree. If you want a more informative definition, Homebrew is a free and open-source package manager for macOS, helping you install, update, uninstall, and manage developer tools like Python, Ruby, and Node.js on your Mac. 
 

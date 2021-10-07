@@ -129,7 +129,7 @@ We'll install Python 3.7.6 - a slightly older version of the software. Using a s
 
 Download from the Python homepage (https://www.python.org/downloads/). Select the needed version number. Click **macOS 64-bit installer**, and follow the prompts to finish installation.
 
-![](pics/python_start.PNG)
+![](pics/python_start.png)
 
 ### Python Interpreter
 The Python interpreter is a program that reads and executes Python code. When we start Python in the command line, it creates the interactive Python interpreter.

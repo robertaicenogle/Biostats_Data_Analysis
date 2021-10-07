@@ -127,7 +127,9 @@ Python is one of the most popular programming languages. Used to write algorithm
 ### Python for macOS
 We'll install Python 3.7.6 - a slightly older version of the software. Using a slightly older version of a software is typical in the software development industry.
 
-Download from the Python homepage (https://www.python.org/downloads/).
+Download from the Python homepage (https://www.python.org/downloads/). Select the needed version number. Click **macOS 64-bit installer**, and follow the prompts to finish installation.
+
+![](pics/python_start.PNG)
 
 ### Python Interpreter
 The Python interpreter is a program that reads and executes Python code. When we start Python in the command line, it creates the interactive Python interpreter.

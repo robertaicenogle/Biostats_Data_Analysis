@@ -134,7 +134,16 @@ The Python interpreter is a program that reads and executes Python code. When we
 
 To use the Python interpreter in the command line, type  python3 or  python3 -i after the prompt, $ , and then press Enter. The terminal window should now look something like this:
 
-![](pics/python_interpreter.PNG)
+Last login: Tue Oct  5 23:50:25 on ttys000
+daniellaandrobert@Daniellas-iMac ~ % python3 --version
+Python 3.7.6
+daniellaandrobert@Daniellas-iMac ~ % python3
+Python 3.7.6 (v3.7.6:43364a7ae0, Dec 18 2019, 14:18:50) 
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> print("Hello world")
+Hello world
+>>> 
 
 **Let's break down what's happening here:**
    1. The first line provides the Python version that's running and the time and day of the creation of the version you are using.
